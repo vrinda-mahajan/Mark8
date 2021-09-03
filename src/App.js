@@ -6,7 +6,16 @@ const foodDictionary = {
   "🍗": "polutry leg",
   "🥗": "green salad",
   "🥪": "sandwich",
-  "🥞": "pancakes"
+  "🥞": "pancakes",
+  "🎂": "cake",
+  "🍔": "burger",
+  "🍟": "fries",
+  "🍜": "noodles",
+  "🍣": "sushi",
+  "🍦": "ice-cream",
+  "🍪": "cookie",
+  "🍩": "doughnut",
+  "🍭": "lollipop"
 };
 var emojiList = Object.keys(foodDictionary);
 export default function App() {
